@@ -5,3 +5,6 @@ This repository contains dashboards  for my Data Visualization projects and repo
 
 Dataline Bike Shop is an E-commerce company that sells and ships products to the global market. Multiple data sources transformed, loaded into an output data model.
 The report analyzed performance of different product categories in different locations.
+Prepared the Data (ETL)
+Model the Data (Star Schema)
+Visualized and Analyzed the Data
