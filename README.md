@@ -8,3 +8,11 @@ The report analyzed performance of different product categories in different loc
 Prepared the Data (ETL)
 Model the Data (Star Schema)
 Visualized and Analyzed the Data
+
+2:Bank of America PI.pdf
+
+The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina. The bank was founded in San Francisco.
+
+The report analyzed performance of different Client Loans categories in different locations.
+Prepared the Data (ETL)
+Visualized and Analyzed the Data
