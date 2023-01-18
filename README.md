@@ -4,6 +4,7 @@ This repository contains dashboards  for my Data Visualization projects and repo
 1: Power BI Walmart.pdf
 
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets.
+
 Prepared the Data (ETL)
 Model the Data (Star Schema)
 Visualized and Analyzed the Data
