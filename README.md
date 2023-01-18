@@ -1,13 +1,13 @@
 # Power-BI-portfolio
 This repository contains dashboards  for my Data Visualization projects and reports created using Power BI.
 
-1: Dataline_Bike_Shop.pdf
+1: Power BI Walmart.pdf
 
-Dataline Bike Shop is an E-commerce company that sells and ships products to the global market. Multiple data sources transformed, loaded into an output data model.
-The report analyzed performance of different product categories in different locations.
+Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets.
 Prepared the Data (ETL)
 Model the Data (Star Schema)
 Visualized and Analyzed the Data
+Excel, Power BI, DAX, R
 
 2:Bank of America PI.pdf
 
