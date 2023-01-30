@@ -17,3 +17,14 @@ The Bank of America Corporation is an American multinational investment bank and
 The report analyzed performance of different Client Loans categories in different locations.
 Prepared the Data (ETL)
 Visualized and Analyzed the Data
+Excel, Power BI, DAX.
+
+3: Adventure_Works_Cycles.pdf
+
+Adventure Works Cycles is  company that sells and
+ships products to the global market.
+
+Prepared the Data (ETL)
+Model the Data (Star Schema)
+Visualized and Analyzed the Data
+Excel, SQL, Power BI, DAX.
