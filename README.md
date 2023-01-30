@@ -13,6 +13,7 @@ Visualized and Analyzed the Data
 
 Excel, Power BI, DAX, R
 
+
 2:Bank of America PI.pdf
 
 The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina. The bank was founded in San Francisco.
@@ -23,6 +24,7 @@ Prepared the Data (ETL)
 Visualized and Analyzed the Data
 
 Excel, Power BI, DAX.
+
 
 3: Adventure_Works_Cycles.pdf
 
